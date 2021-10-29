@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@100&display=swap');
+
 body{
     margin: 0;
     padding: 0;
@@ -94,7 +96,9 @@ body {
     letter-spacing: 2px;
     text-align: center;
     font-weight: bold;
-    color: #333436;
+    color: #fee7d3;
+    /* font-family: 'Open Sans', sans-serif; */
+    font-family: 'Roboto', sans-serif;
 }
 
 /* edicion del titulo "developer" */
@@ -102,5 +106,23 @@ body {
     margin-top: 5px;
     font-size: 18px;
     letter-spacing: 1px;
-    color: #6e6e6e;
+    color: whitesmoke;;
+    font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+}
+
+.container p {
+    padding: 0 1rem;
+    font-size: 16px;
+    font-weight: 300;
+    text-align:  center;
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container a {
+    font-weight: 500;
+    text-decoration: none;
+    color: cadetblue;
+    font-family: 'Open Sans', sans-serif;
 }
