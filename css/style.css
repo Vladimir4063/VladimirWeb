@@ -126,3 +126,10 @@ body {
     color: cadetblue;
     font-family: 'Open Sans', sans-serif;
 }
+
+.aviso .mensaje{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #e47c7c;
+}
