@@ -105,7 +105,11 @@ body {
 	text-align: center;
 	padding: 30px;
 	margin: 25px 25px 0px 25px;
+<<<<<<< HEAD
 	font-size: small; /*fatal, corregir*/
+=======
+	font-size: 9000px; /*fatal, corregir*/
+>>>>>>> 4ff3ea53cdb4e5e186b79158ef4fcf1d14a0e3fd
 	color: #f2f2f2;
 	font-family: 'Poppins', sans-serif;
 }
@@ -125,6 +129,7 @@ body {
 	height: 265px;
 	border-radius: 6px;
 	color: #f2f2f2;
+<<<<<<< HEAD
 	/* hover */
 	box-shadow: 0 2px 2px rgba(0,0,0,0.2); /*Color sombreado de card*/
     overflow: hidden;
@@ -139,11 +144,17 @@ body {
 .contenedor-cards4 .cont-card-hability p{
 	font-size: 18px;
 	color: #94a1b2;
+=======
+>>>>>>> 4ff3ea53cdb4e5e186b79158ef4fcf1d14a0e3fd
 }
 
 .contenedor-cards4 img{
 	font-size: 30px;
 	margin: 25px 25px 0px 25px;
+<<<<<<< HEAD
+=======
+	color: red;
+>>>>>>> 4ff3ea53cdb4e5e186b79158ef4fcf1d14a0e3fd
 }
 
 .contenedor-cards4 h2{
@@ -161,9 +172,12 @@ body {
 /* * ===== CONTENEDOR INFO ====== */
 /* * ============================== */
 
+<<<<<<< HEAD
 .contenido .post img {
 	width: 400px;
 }
+=======
+>>>>>>> 4ff3ea53cdb4e5e186b79158ef4fcf1d14a0e3fd
 
 /* * ============================== */
 /* * ========= CARD HOVER ======== */
@@ -197,7 +211,10 @@ body {
 
 .container-card-text{
 	margin: 60px 0px;
+<<<<<<< HEAD
 	color: #fffffe;
+=======
+>>>>>>> 4ff3ea53cdb4e5e186b79158ef4fcf1d14a0e3fd
 }
 
 .container .card:hover {
@@ -214,7 +231,11 @@ body {
     /* font-weight: 600; */
 	font-size: 60px;
 	font-family: 'Poppins', sans-serif;
+<<<<<<< HEAD
 	color: fffffe;
+=======
+	color: seashell;
+>>>>>>> 4ff3ea53cdb4e5e186b79158ef4fcf1d14a0e3fd
 	padding: 20px 0px;
 }
 
@@ -223,7 +244,11 @@ body {
     font-size: 20px;
     font-weight: 300;
 	font-family: 'Poppins', sans-serif;
+<<<<<<< HEAD
 	color: fffffe;
+=======
+	color: seashell;
+>>>>>>> 4ff3ea53cdb4e5e186b79158ef4fcf1d14a0e3fd
 }
 
 /* link Leer mas */
@@ -244,7 +269,11 @@ main {
 main .contenido p {
 	margin-bottom: 20px;
 	line-height: 30px;
+<<<<<<< HEAD
 	color: #94a1b2;
+=======
+	color: #525151;
+>>>>>>> 4ff3ea53cdb4e5e186b79158ef4fcf1d14a0e3fd
 }
 
 main .contenido .titulo {
@@ -257,7 +286,11 @@ main .contenido .titulo {
 
 main .contenido .fecha {
 	font-size: 16px;
+<<<<<<< HEAD
 	color: #94a1b2;
+=======
+	color: #B5B5B5;
+>>>>>>> 4ff3ea53cdb4e5e186b79158ef4fcf1d14a0e3fd
 }
 
 main .contenido .container-stack{
@@ -296,13 +329,21 @@ aside .titulo {
 	/* font-weight: normal; */
 	font-size: 55px;
 	margin-bottom: 20px;
+<<<<<<< HEAD
 	color: #fffffe;
+=======
+	color: #f2f2f2;
+>>>>>>> 4ff3ea53cdb4e5e186b79158ef4fcf1d14a0e3fd
 }
 
 aside .contenedor-titulo-p{
 	font-family:'Poppins', sans-serif;
 	font-size: 19px;
+<<<<<<< HEAD
 	color:#94a1b2;
+=======
+	color:#f2f2f2;
+>>>>>>> 4ff3ea53cdb4e5e186b79158ef4fcf1d14a0e3fd
 }
 
 aside .indice a {
@@ -355,6 +396,7 @@ main .post {
 		flex-direction: column;
 	}
 
+<<<<<<< HEAD
 	aside {
 		position: static;
 	}
@@ -396,5 +438,9 @@ main .post {
 	/* INFO cont-card-hability */
 	.cont-card-hability p{
 		font-size: 17px;
+=======
+	.container-card-text{
+	margin:0px;
+>>>>>>> 4ff3ea53cdb4e5e186b79158ef4fcf1d14a0e3fd
 	}
 }
