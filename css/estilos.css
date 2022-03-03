@@ -242,6 +242,7 @@ main {
 }
 
 main .contenido p {
+	margin-top: 20px;
 	margin-bottom: 20px;
 	line-height: 30px;
 	color: #94a1b2;
@@ -274,6 +275,19 @@ main .contenido .stack{
 	background-color: #7f5af0;
 }
 
+main .contenido .jobs{
+	color: white;
+	text-align: center;
+	margin: 5px;
+	padding: 0px 10px;
+	border-radius:5px;
+	background-color: #4371ee;
+}
+
+main .contenido a {
+	/* display: block; */
+	color: white;
+}
 /* * ============================== */
 /* * ============ ASIDE =========== */
 /* * ============================== */
