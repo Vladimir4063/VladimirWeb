@@ -144,6 +144,10 @@ body {
 .contenedor-cards4 img{
 	font-size: 30px;
 	margin: 25px 25px 0px 25px;
+	
+    background: white;
+    border-radius: 10px;
+	padding: 10px;
 }
 
 .contenedor-cards4 h2{
